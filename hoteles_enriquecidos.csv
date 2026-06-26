@@ -1,0 +1,501 @@
+﻿hotel_id,nombre_hotel,pais,ciudad,categoria_estrellas,tipo_conexion,clicks_90d,reservas_90d,conversion_rate,disponibilidad_pct,dias_sin_actualizar_tarifas,tiene_fotos,cantidad_fotos,rating_promedio,engagement_score,nivel_engagement,segmento
+HTL10000,Ciudad de México Valle Resort,México,Ciudad de México,4,Channel Manager,136,0,0.005,0.68,24,False,0,3.6,28.2,Medio,Tráfico sin conversión
+HTL10001,Cartagena Sol Residence,Colombia,Cartagena,5,Channel Manager,26,3,0.119,0.97,10,True,16,4.1,78.1,Alto,Productivos
+HTL10002,Monterrey Colonial Suites,México,Monterrey,3,Bedbank,1,0,0.036,0.31,178,False,0,2.9,17.2,Bajo,Abandonados
+HTL10003,Buenos Aires Nuevo Resort,Argentina,Buenos Aires,3,Directo,6,0,0.021,0.26,192,False,0,2.5,10.9,Bajo,Abandonados
+HTL10004,Salta Nuevo Residence,Argentina,Salta,3,Directo,9,0,0.043,0.69,17,True,15,3.9,49.7,Alto,Invisibles
+HTL10005,Montevideo Vista Place,Uruguay,Montevideo,2,Channel Manager,19,0,0.034,0.71,20,False,0,3.7,37.2,Medio,Otros bajos
+HTL10006,Santiago Alto Rooms,Chile,Santiago,4,Channel Manager,1,0,0.025,0.86,17,False,0,4.5,38.2,Medio,Invisibles
+HTL10007,Arequipa Mar Resort,Perú,Arequipa,4,Bedbank,132,14,0.107,0.89,2,True,44,4.8,92.7,Alto,Productivos
+HTL10008,Lima Plaza Rooms,Perú,Lima,3,Channel Manager,1,0,0.019,0.17,197,False,0,2.7,8.0,Bajo,Abandonados
+HTL10009,Guadalajara Palace Place,México,Guadalajara,4,Directo,8,0,0.009,0.1,111,False,0,3.0,10.2,Bajo,Abandonados
+HTL10010,Santiago Vista Residence,Chile,Santiago,4,Directo,6,0,0.023,0.67,4,True,12,4.0,42.7,Medio,Invisibles
+HTL10011,Los Cabos Plaza Residence,México,Los Cabos,5,Directo,27,1,0.059,0.8,6,True,33,4.2,69.6,Alto,Productivos
+HTL10012,Puerto Natales Palace Place,Chile,Puerto Natales,4,Bedbank,51,3,0.078,0.94,9,True,26,4.6,72.9,Alto,Productivos
+HTL10013,San Andrés Plaza Suites,Colombia,San Andrés,5,Directo,10,0,0.059,0.84,4,True,6,4.3,52.2,Alto,Invisibles
+HTL10014,Medellín Plaza Resort,Colombia,Medellín,5,Channel Manager,5,0,0.036,0.75,14,True,12,4.3,47.3,Alto,Invisibles
+HTL10015,Los Cabos Valle Stay,México,Los Cabos,3,Channel Manager,3,0,0.038,0.72,13,True,12,4.1,47.2,Alto,Invisibles
+HTL10016,Cusco Palace Apart,Perú,Cusco,2,Channel Manager,198,2,0.011,0.59,22,True,6,3.7,32.2,Medio,Productivos
+HTL10017,San Andrés Valle Inn,Colombia,San Andrés,4,Directo,1,0,0.02,0.3,66,True,1,2.5,21.7,Bajo,Otros bajos
+HTL10018,Florianópolis Costa Lodge,Brasil,Florianópolis,3,Directo,43,0,0.005,0.75,19,True,5,3.8,33.5,Medio,Tráfico sin conversión
+HTL10019,Guayaquil Valle Residence,Ecuador,Guayaquil,2,Channel Manager,50,0,0.013,0.51,55,False,0,3.2,24.4,Medio,Tráfico sin conversión
+HTL10020,San Andrés Royal Suites,Colombia,San Andrés,4,Directo,3,0,0.027,0.14,122,False,0,2.5,15.3,Bajo,Abandonados
+HTL10021,Bogotá Royal Rooms,Colombia,Bogotá,2,Channel Manager,13,0,0.01,0.67,13,True,4,4.0,32.9,Medio,Invisibles
+HTL10022,Santiago Nuevo Place,Chile,Santiago,3,Channel Manager,29,0,0.009,0.68,20,True,1,3.5,30.3,Medio,Otros bajos
+HTL10023,Cusco Bahia Rooms,Perú,Cusco,4,Channel Manager,23,0,0.002,0.76,64,False,0,2.6,26.1,Medio,Otros bajos
+HTL10024,Quito Valle Lodge,Ecuador,Quito,4,Bedbank,101,1,0.017,0.73,23,False,0,2.7,32.7,Medio,Productivos
+HTL10025,San Andrés Playa Residence,Colombia,San Andrés,3,Directo,9,0,0.032,0.19,113,False,0,2.8,18.4,Bajo,Abandonados
+HTL10026,Puerto Natales Colonial Place,Chile,Puerto Natales,4,Channel Manager,6,0,0.002,0.71,19,True,12,4.0,36.6,Medio,Invisibles
+HTL10027,Punta del Este Costa Lodge,Uruguay,Punta del Este,3,Channel Manager,0,0,0.037,0.14,163,False,0,2.4,14.9,Bajo,Abandonados
+HTL10028,Quito Real Inn,Ecuador,Quito,4,Channel Manager,8,0,0.039,0.32,166,False,0,3.5,19.1,Bajo,Abandonados
+HTL10029,Natal Alto Rooms,Brasil,Natal,3,Directo,8,0,0.063,0.85,5,True,7,4.1,54.2,Alto,Invisibles
+HTL10030,Los Cabos Central Place,México,Los Cabos,4,Channel Manager,2,0,0.056,0.16,169,True,2,3.3,21.6,Bajo,Abandonados
+HTL10031,Cuenca Valle Residence,Ecuador,Cuenca,4,Directo,4,0,0.027,0.89,15,True,13,4.5,48.4,Alto,Invisibles
+HTL10032,Mar del Plata Sol Residence,Argentina,Mar del Plata,3,Channel Manager,39,1,0.037,0.63,22,False,0,4.2,36.2,Medio,Productivos
+HTL10033,San Pedro de Atacama Sol Hostal,Chile,San Pedro de Atacama,4,Bedbank,35,3,0.091,0.9,7,True,40,4.2,85.4,Alto,Productivos
+HTL10034,Montevideo Vista Suites,Uruguay,Montevideo,4,Bedbank,45,3,0.073,0.81,3,True,34,4.9,74.7,Alto,Productivos
+HTL10035,Puerto Natales Alto Residence,Chile,Puerto Natales,4,Channel Manager,21,2,0.113,0.79,4,True,37,4.4,87.3,Alto,Productivos
+HTL10036,Puerto Vallarta Sierra Residence,México,Puerto Vallarta,3,Channel Manager,63,0,0.012,0.56,59,True,3,2.4,27.0,Medio,Tráfico sin conversión
+HTL10037,Cartagena Palace Lodge,Colombia,Cartagena,5,Directo,4,0,0.039,0.63,9,False,0,3.9,37.7,Medio,Invisibles
+HTL10038,Salta Royal Stay,Argentina,Salta,3,Directo,8,0,0.02,0.17,140,False,0,3.1,12.6,Bajo,Abandonados
+HTL10039,Buenos Aires Palace Hostal,Argentina,Buenos Aires,3,Channel Manager,41,0,0.0,0.59,62,True,6,2.7,26.1,Medio,Tráfico sin conversión
+HTL10040,Bogotá Costa Place,Colombia,Bogotá,2,Channel Manager,5,0,0.037,0.85,12,True,15,4.1,51.9,Alto,Invisibles
+HTL10041,Ciudad de México Bahia Inn,México,Ciudad de México,3,Bedbank,60,0,0.004,0.47,60,True,3,3.3,22.7,Bajo,Tráfico sin conversión
+HTL10042,Rio de Janeiro Bahia Residence,Brasil,Rio de Janeiro,3,Directo,12,0,0.023,0.82,3,True,11,3.8,45.3,Medio,Invisibles
+HTL10043,Fortaleza Parque Place,Brasil,Fortaleza,3,Channel Manager,85,3,0.044,0.96,7,True,19,4.2,59.3,Alto,Productivos
+HTL10044,Montevideo Playa Resort,Uruguay,Montevideo,3,Channel Manager,10,0,0.039,0.74,17,True,10,4.5,46.3,Alto,Invisibles
+HTL10045,Valparaíso Palace Stay,Chile,Valparaíso,2,Directo,7,0,0.005,0.16,185,False,0,2.7,4.8,Bajo,Abandonados
+HTL10046,Quito Costa Resort,Ecuador,Quito,3,Channel Manager,26,0,0.012,0.66,39,True,2,3.6,29.9,Medio,Otros bajos
+HTL10047,Guadalajara Gran Place,México,Guadalajara,3,Bedbank,4,0,0.023,0.2,198,False,0,2.4,9.7,Bajo,Abandonados
+HTL10048,Santa Marta Costa Suites,Colombia,Santa Marta,3,Channel Manager,12,0,0.033,0.16,94,False,0,2.9,19.5,Bajo,Abandonados
+HTL10049,Puerto Vallarta Real Resort,México,Puerto Vallarta,3,Bedbank,17,0,0.052,0.87,14,False,0,4.1,46.1,Alto,Otros bajos
+HTL10050,Ciudad de México Royal Inn,México,Ciudad de México,2,Channel Manager,147,12,0.082,0.8,2,True,38,4.9,79.7,Alto,Productivos
+HTL10051,Medellín Bahia Resort,Colombia,Medellín,4,Channel Manager,22,0,0.032,0.1,188,False,0,2.8,10.8,Bajo,Abandonados
+HTL10052,Natal Casa Place,Brasil,Natal,3,Directo,72,4,0.067,0.8,7,True,37,4.2,74.5,Alto,Productivos
+HTL10053,Quito Bahia Rooms,Ecuador,Quito,4,Channel Manager,61,5,0.091,0.9,11,True,35,4.9,81.7,Alto,Productivos
+HTL10054,Bogotá Sol Rooms,Colombia,Bogotá,4,Directo,3,0,0.021,0.18,145,True,1,3.0,13.4,Bajo,Abandonados
+HTL10055,Iquitos Colonial Stay,Perú,Iquitos,3,Channel Manager,135,9,0.068,0.9,6,True,14,4.2,61.3,Alto,Productivos
+HTL10056,Mar del Plata Sol Suites,Argentina,Mar del Plata,2,Bedbank,16,0,0.026,0.91,20,True,4,3.8,42.0,Medio,Otros bajos
+HTL10057,Colonia del Sacramento Royal Inn,Uruguay,Colonia del Sacramento,4,Bedbank,14,0,0.044,0.82,18,False,0,3.8,42.5,Medio,Invisibles
+HTL10058,Cartagena Nuevo Residence,Colombia,Cartagena,3,Directo,14,0,0.037,0.63,18,True,11,4.6,44.0,Medio,Invisibles
+HTL10059,Quito Colonial Lodge,Ecuador,Quito,5,Channel Manager,75,0,0.008,0.56,64,True,3,3.2,25.5,Medio,Tráfico sin conversión
+HTL10060,Valparaíso Costa Inn,Chile,Valparaíso,3,Bedbank,14,0,0.016,0.58,49,False,0,3.2,27.2,Medio,Otros bajos
+HTL10061,Cuenca Sol Suites,Ecuador,Cuenca,4,Channel Manager,1,0,0.046,0.88,12,True,5,3.6,48.2,Alto,Invisibles
+HTL10062,Buenos Aires Costa Lodge,Argentina,Buenos Aires,4,Channel Manager,41,4,0.11,0.88,7,True,21,4.2,77.3,Alto,Productivos
+HTL10063,Punta del Este Bahia Resort,Uruguay,Punta del Este,3,Channel Manager,21,0,0.006,0.73,57,False,0,2.8,27.0,Medio,Otros bajos
+HTL10064,Montevideo Alto Rooms,Uruguay,Montevideo,5,Directo,62,0,0.003,0.49,72,False,0,2.8,19.9,Bajo,Tráfico sin conversión
+HTL10065,Córdoba Valle Stay,Argentina,Córdoba,4,Bedbank,7,0,0.031,0.29,198,False,0,2.2,13.8,Bajo,Abandonados
+HTL10066,Valparaíso Playa Stay,Chile,Valparaíso,3,Bedbank,13,0,0.027,0.66,4,True,12,3.8,43.6,Medio,Invisibles
+HTL10067,Rio de Janeiro Sierra Resort,Brasil,Rio de Janeiro,4,Channel Manager,119,8,0.071,0.92,2,True,43,4.5,82.7,Alto,Productivos
+HTL10068,Salta Playa Suites,Argentina,Salta,4,Channel Manager,8,0,0.052,0.74,9,True,6,4.6,47.8,Alto,Invisibles
+HTL10069,Lima Real Place,Perú,Lima,4,Bedbank,78,9,0.122,0.8,5,True,26,4.1,82.4,Alto,Productivos
+HTL10070,Cuenca Parque Lodge,Ecuador,Cuenca,4,Directo,9,0,0.02,0.08,185,False,0,2.2,7.3,Bajo,Abandonados
+HTL10071,Salta Plaza Lodge,Argentina,Salta,4,Channel Manager,9,0,0.048,0.82,14,False,0,4.3,43.9,Medio,Invisibles
+HTL10072,Monterrey Plaza Resort,México,Monterrey,3,Bedbank,6,0,0.028,0.67,10,True,8,4.3,40.9,Medio,Invisibles
+HTL10073,Montevideo Casa Resort,Uruguay,Montevideo,4,Bedbank,49,4,0.085,0.85,9,True,42,4.1,83.8,Alto,Productivos
+HTL10074,Salta Plaza Rooms,Argentina,Salta,4,Bedbank,3,0,0.013,0.07,109,False,0,2.3,10.9,Bajo,Abandonados
+HTL10075,Arequipa Nuevo Apart,Perú,Arequipa,3,Directo,5,0,0.022,0.13,67,False,0,3.6,17.8,Bajo,Abandonados
+HTL10076,Medellín Central Lodge,Colombia,Medellín,3,Directo,11,0,0.028,0.1,169,False,0,2.4,11.1,Bajo,Abandonados
+HTL10077,Valparaíso Royal Inn,Chile,Valparaíso,4,Channel Manager,5,0,0.034,0.64,21,False,0,4.3,35.6,Medio,Invisibles
+HTL10078,Córdoba Boutique Place,Argentina,Córdoba,3,Channel Manager,24,0,0.016,0.47,64,True,3,2.8,25.7,Medio,Otros bajos
+HTL10079,Ciudad de México Playa Resort,México,Ciudad de México,2,Directo,13,0,0.034,0.65,21,True,16,4.3,46.7,Alto,Invisibles
+HTL10080,Pucón Palace Inn,Chile,Pucón,3,Directo,101,10,0.108,0.83,11,True,39,4.8,87.6,Alto,Productivos
+HTL10081,Medellín Sierra Lodge,Colombia,Medellín,5,Bedbank,1,0,0.013,0.14,162,False,0,2.5,8.3,Bajo,Abandonados
+HTL10082,Cuenca Sierra Place,Ecuador,Cuenca,4,Channel Manager,34,0,0.023,0.63,24,True,5,3.5,35.5,Medio,Otros bajos
+HTL10083,Mar del Plata Playa Hostal,Argentina,Mar del Plata,4,Bedbank,13,0,0.055,0.66,3,False,0,4.2,43.2,Medio,Invisibles
+HTL10084,Cancún Valle Inn,México,Cancún,4,Channel Manager,47,0,0.019,0.52,44,True,6,2.9,31.2,Medio,Tráfico sin conversión
+HTL10085,Puerto Vallarta Playa Lodge,México,Puerto Vallarta,4,Channel Manager,263,1,0.006,0.58,73,False,0,3.3,22.6,Bajo,Productivos
+HTL10086,San Pedro de Atacama Boutique Resort,Chile,San Pedro de Atacama,4,Bedbank,7,0,0.026,0.25,84,True,1,2.4,20.9,Bajo,Abandonados
+HTL10087,Cusco Valle Residence,Perú,Cusco,3,Channel Manager,9,0,0.041,0.05,109,False,0,2.3,18.2,Bajo,Abandonados
+HTL10088,Guayaquil Real Inn,Ecuador,Guayaquil,3,Directo,49,3,0.067,0.81,7,True,26,4.3,67.2,Alto,Productivos
+HTL10089,Punta del Este Real Suites,Uruguay,Punta del Este,3,Directo,183,2,0.014,0.46,71,True,1,3.4,23.1,Bajo,Productivos
+HTL10090,Cusco Valle Lodge,Perú,Cusco,4,Channel Manager,6,0,0.051,0.86,4,False,0,4.1,46.4,Alto,Invisibles
+HTL10091,Cuenca Colonial Residence,Ecuador,Cuenca,4,Channel Manager,8,0,0.046,0.25,76,True,2,3.3,27.8,Medio,Abandonados
+HTL10092,Buenos Aires Plaza Lodge,Argentina,Buenos Aires,3,Channel Manager,4,0,0.0,0.25,182,False,0,2.2,5.6,Bajo,Abandonados
+HTL10093,Bariloche Casa Residence,Argentina,Bariloche,3,Directo,2,0,0.034,0.2,131,True,2,3.3,19.2,Bajo,Abandonados
+HTL10094,Salvador Mar Suites,Brasil,Salvador,2,Directo,4,0,0.0,0.28,163,False,0,2.9,7.7,Bajo,Abandonados
+HTL10095,San Pedro de Atacama Real Apart,Chile,San Pedro de Atacama,3,Channel Manager,85,1,0.014,0.59,58,True,2,3.2,27.5,Medio,Productivos
+HTL10096,San Andrés Costa Inn,Colombia,San Andrés,4,Channel Manager,2,0,0.001,0.18,177,True,1,3.4,5.4,Bajo,Abandonados
+HTL10097,Puno Colonial Place,Perú,Puno,5,Directo,90,0,0.006,0.61,29,False,0,3.0,26.6,Medio,Tráfico sin conversión
+HTL10098,Rio de Janeiro Alto Lodge,Brasil,Rio de Janeiro,3,Channel Manager,4,0,0.04,0.74,24,True,8,3.6,44.7,Medio,Invisibles
+HTL10099,Montevideo Alto Apart,Uruguay,Montevideo,4,Channel Manager,3,0,0.027,0.69,22,True,13,4.0,43.5,Medio,Invisibles
+HTL10100,Colonia del Sacramento Costa Hostal,Uruguay,Colonia del Sacramento,4,Directo,33,0,0.016,0.9,8,True,15,3.6,47.4,Alto,Otros bajos
+HTL10101,Natal Sol Rooms,Brasil,Natal,4,Channel Manager,15,0,0.019,0.27,144,False,0,2.5,14.2,Bajo,Abandonados
+HTL10102,Córdoba Costa Resort,Argentina,Córdoba,2,Directo,76,0,0.004,0.76,17,True,6,2.7,34.3,Medio,Tráfico sin conversión
+HTL10103,Guayaquil Sierra Resort,Ecuador,Guayaquil,2,Directo,23,0,0.029,0.16,129,False,0,2.1,15.7,Bajo,Abandonados
+HTL10104,Bogotá Nuevo Rooms,Colombia,Bogotá,3,Bedbank,23,2,0.092,0.88,4,True,31,4.2,79.3,Alto,Productivos
+HTL10105,Arequipa Plaza Hostal,Perú,Arequipa,3,Directo,9,0,0.037,0.67,7,False,0,3.8,38.2,Medio,Invisibles
+HTL10106,Puno Central Residence,Perú,Puno,3,Bedbank,124,0,0.001,0.77,37,True,2,3.3,29.4,Medio,Tráfico sin conversión
+HTL10107,Lima Sol Hostal,Perú,Lima,4,Channel Manager,14,0,0.034,0.11,153,False,0,3.3,14.2,Bajo,Abandonados
+HTL10108,Florianópolis Valle Suites,Brasil,Florianópolis,2,Channel Manager,8,0,0.04,0.88,20,True,12,3.7,50.7,Alto,Invisibles
+HTL10109,Monterrey Colonial Apart,México,Monterrey,4,Bedbank,8,0,0.047,0.89,22,True,16,4.4,55.4,Alto,Invisibles
+HTL10110,Iquitos Boutique Residence,Perú,Iquitos,3,Channel Manager,32,0,0.0,0.68,38,True,1,3.2,26.4,Medio,Otros bajos
+HTL10111,Los Cabos Casa Resort,México,Los Cabos,3,Directo,4,0,0.04,0.81,19,True,8,4.5,46.5,Alto,Invisibles
+HTL10112,Santiago Colonial Suites,Chile,Santiago,3,Channel Manager,25,1,0.049,0.9,6,True,26,4.5,64.2,Alto,Productivos
+HTL10113,Medellín Colonial Inn,Colombia,Medellín,4,Channel Manager,60,7,0.118,0.94,5,True,27,4.7,85.0,Alto,Productivos
+HTL10114,Puno Royal Inn,Perú,Puno,5,Directo,5,0,0.027,0.08,130,True,3,3.3,15.4,Bajo,Abandonados
+HTL10115,Puerto Natales Sierra Rooms,Chile,Puerto Natales,5,Channel Manager,34,2,0.085,0.92,5,True,24,4.5,73.4,Alto,Productivos
+HTL10116,Iquitos Sierra Residence,Perú,Iquitos,3,Directo,32,2,0.093,0.89,8,True,31,4.5,79.5,Alto,Productivos
+HTL10117,Rio de Janeiro Colonial Rooms,Brasil,Rio de Janeiro,4,Channel Manager,9,0,0.029,0.91,16,False,0,4.5,40.4,Medio,Invisibles
+HTL10118,Florianópolis Casa Hostal,Brasil,Florianópolis,3,Directo,25,2,0.117,0.95,10,True,27,4.6,84.6,Alto,Productivos
+HTL10119,Colonia del Sacramento Gran Hostal,Uruguay,Colonia del Sacramento,3,Channel Manager,10,0,0.025,0.23,174,False,0,2.4,12.7,Bajo,Abandonados
+HTL10120,Pucón Colonial Place,Chile,Pucón,3,Directo,71,5,0.075,0.87,6,True,33,4.1,75.6,Alto,Productivos
+HTL10121,Iquitos Vista Stay,Perú,Iquitos,4,Channel Manager,23,2,0.087,0.86,7,True,36,5.0,80.7,Alto,Productivos
+HTL10122,Santa Marta Bahia Lodge,Colombia,Santa Marta,3,Channel Manager,28,0,0.0,0.69,56,False,0,2.6,24.6,Medio,Otros bajos
+HTL10123,Guadalajara Parque Place,México,Guadalajara,2,Channel Manager,3,0,0.043,0.64,4,False,0,3.8,39.4,Medio,Invisibles
+HTL10124,Lima Costa Hostal,Perú,Lima,3,Directo,6,0,0.032,0.78,4,False,0,3.8,39.4,Medio,Invisibles
+HTL10125,Cartagena Mar Suites,Colombia,Cartagena,4,Bedbank,99,2,0.021,0.56,34,False,0,3.8,29.3,Medio,Productivos
+HTL10126,Mendoza Bahia Place,Argentina,Mendoza,4,Channel Manager,47,5,0.117,0.79,7,True,16,4.3,73.9,Alto,Productivos
+HTL10127,Los Cabos Colonial Place,México,Los Cabos,4,Directo,33,2,0.084,0.87,9,True,28,4.4,74.5,Alto,Productivos
+HTL10128,San Andrés Central Stay,Colombia,San Andrés,5,Channel Manager,5,0,0.031,0.91,3,False,0,4.4,42.0,Medio,Invisibles
+HTL10129,Montevideo Mar Suites,Uruguay,Montevideo,3,Channel Manager,5,0,0.015,0.26,181,False,0,3.0,10.0,Bajo,Abandonados
+HTL10130,Los Cabos Costa Lodge,México,Los Cabos,3,Directo,61,0,0.006,0.56,37,True,1,3.2,25.6,Medio,Tráfico sin conversión
+HTL10131,Quito Playa Resort,Ecuador,Quito,3,Channel Manager,32,0,0.018,0.77,23,True,9,4.2,40.0,Medio,Otros bajos
+HTL10132,Los Cabos Mar Stay,México,Los Cabos,3,Channel Manager,15,0,0.001,0.81,17,True,17,4.4,42.0,Medio,Otros bajos
+HTL10133,Iquitos Boutique Residence II,Perú,Iquitos,4,Channel Manager,65,0,0.003,0.51,56,True,4,3.2,24.3,Bajo,Tráfico sin conversión
+HTL10134,Colonia del Sacramento Vista Lodge,Uruguay,Colonia del Sacramento,5,Channel Manager,18,1,0.078,0.9,2,True,27,4.8,73.3,Alto,Productivos
+HTL10135,Guayaquil Valle Resort,Ecuador,Guayaquil,3,Channel Manager,36,0,0.006,0.57,19,True,1,2.7,27.2,Medio,Otros bajos
+HTL10136,Puerto Natales Bahia Resort,Chile,Puerto Natales,2,Bedbank,7,0,0.008,0.3,183,True,2,3.3,10.2,Bajo,Abandonados
+HTL10137,Valparaíso Plaza Hostal,Chile,Valparaíso,3,Channel Manager,2,0,0.025,0.07,170,False,0,2.2,9.6,Bajo,Abandonados
+HTL10138,Medellín Royal Apart,Colombia,Medellín,5,Directo,51,0,0.006,0.49,33,True,4,3.3,26.4,Medio,Tráfico sin conversión
+HTL10139,Cancún Mar Resort,México,Cancún,4,Directo,36,2,0.068,0.81,8,True,18,4.6,62.0,Alto,Productivos
+HTL10140,Colonia del Sacramento Mar Resort,Uruguay,Colonia del Sacramento,3,Directo,68,5,0.08,0.83,2,True,32,4.1,75.7,Alto,Productivos
+HTL10141,Los Cabos Colonial Apart,México,Los Cabos,3,Bedbank,9,0,0.018,0.68,3,True,8,3.8,38.9,Medio,Invisibles
+HTL10142,Guayaquil Real Resort,Ecuador,Guayaquil,2,Directo,29,0,0.003,0.66,44,True,5,3.1,29.1,Medio,Otros bajos
+HTL10143,Punta del Este Casa Suites,Uruguay,Punta del Este,3,Channel Manager,65,1,0.018,0.57,38,True,5,3.7,31.8,Medio,Productivos
+HTL10144,Punta del Este Gran Apart,Uruguay,Punta del Este,3,Directo,99,0,0.009,0.72,19,True,2,2.5,31.9,Medio,Tráfico sin conversión
+HTL10145,Valparaíso Colonial Residence,Chile,Valparaíso,5,Channel Manager,21,1,0.053,0.89,17,True,15,4.1,56.8,Alto,Productivos
+HTL10146,Cali Costa Hostal,Colombia,Cali,4,Directo,5,0,0.023,0.06,70,False,0,3.3,16.4,Bajo,Abandonados
+HTL10147,Punta del Este Gran Rooms,Uruguay,Punta del Este,4,Directo,6,0,0.013,0.15,127,False,0,3.8,11.2,Bajo,Abandonados
+HTL10148,Iquitos Alto Stay,Perú,Iquitos,5,Bedbank,4,0,0.008,0.78,21,True,13,3.6,40.3,Medio,Invisibles
+HTL10149,Florianópolis Playa Suites,Brasil,Florianópolis,2,Bedbank,16,0,0.024,0.81,11,True,4,3.9,40.0,Medio,Otros bajos
+HTL10150,Colonia del Sacramento Casa Suites,Uruguay,Colonia del Sacramento,3,Directo,53,4,0.093,0.96,4,True,23,4.5,75.9,Alto,Productivos
+HTL10151,Puerto Vallarta Colonial Lodge,México,Puerto Vallarta,2,Channel Manager,9,0,0.047,0.8,6,True,4,4.5,46.5,Alto,Invisibles
+HTL10152,Quito Real Hostal,Ecuador,Quito,3,Channel Manager,3,0,0.006,0.8,23,True,8,4.3,36.6,Medio,Invisibles
+HTL10153,Punta del Este Nuevo Stay,Uruguay,Punta del Este,3,Directo,119,0,0.006,0.54,47,False,0,2.7,23.7,Bajo,Tráfico sin conversión
+HTL10154,Arequipa Central Hostal,Perú,Arequipa,5,Channel Manager,26,2,0.087,0.79,4,True,33,5.0,77.4,Alto,Productivos
+HTL10155,Punta del Este Plaza Stay,Uruguay,Punta del Este,5,Directo,8,0,0.034,0.84,20,True,6,3.8,44.1,Medio,Invisibles
+HTL10156,Mar del Plata Playa Suites,Argentina,Mar del Plata,3,Channel Manager,11,0,0.03,0.22,79,True,1,3.7,21.8,Bajo,Abandonados
+HTL10157,Cusco Plaza Suites,Perú,Cusco,4,Bedbank,5,0,0.005,0.05,98,False,0,3.9,9.0,Bajo,Abandonados
+HTL10158,Mendoza Nuevo Suites,Argentina,Mendoza,2,Channel Manager,6,0,0.044,0.79,19,True,14,4.3,51.3,Alto,Invisibles
+HTL10159,Rio de Janeiro Mar Stay,Brasil,Rio de Janeiro,3,Channel Manager,15,0,0.021,0.28,177,False,0,3.8,12.4,Bajo,Abandonados
+HTL10160,Monterrey Nuevo Stay,México,Monterrey,3,Channel Manager,54,0,0.003,0.74,74,True,5,3.3,28.6,Medio,Tráfico sin conversión
+HTL10161,San Pedro de Atacama Alto Place,Chile,San Pedro de Atacama,4,Directo,8,0,0.009,0.05,89,True,1,2.7,11.5,Bajo,Abandonados
+HTL10162,Cancún Sierra Inn,México,Cancún,4,Directo,3,0,0.051,0.22,73,False,0,3.1,27.4,Medio,Abandonados
+HTL10163,Bariloche Casa Rooms,Argentina,Bariloche,4,Channel Manager,13,0,0.027,0.12,176,False,0,2.2,10.7,Bajo,Abandonados
+HTL10164,Colonia del Sacramento Nuevo Inn,Uruguay,Colonia del Sacramento,2,Channel Manager,13,0,0.049,0.86,14,True,7,3.7,49.8,Alto,Invisibles
+HTL10165,Bogotá Sierra Place,Colombia,Bogotá,4,Directo,39,3,0.079,0.94,9,True,44,4.5,85.5,Alto,Productivos
+HTL10166,Monterrey Real Apart,México,Monterrey,4,Bedbank,63,0,0.002,0.73,38,True,5,2.7,30.8,Medio,Tráfico sin conversión
+HTL10167,Colonia del Sacramento Palace Inn,Uruguay,Colonia del Sacramento,3,Channel Manager,6,0,0.047,0.78,9,False,0,3.9,43.1,Medio,Invisibles
+HTL10168,Lima Colonial Stay,Perú,Lima,3,Bedbank,7,0,0.041,0.86,13,True,9,4.2,49.0,Alto,Invisibles
+HTL10169,Los Cabos Palace Stay,México,Los Cabos,2,Bedbank,6,0,0.022,0.05,72,True,3,2.3,17.8,Bajo,Abandonados
+HTL10170,Salvador Alto Residence,Brasil,Salvador,4,Channel Manager,5,0,0.018,0.12,98,False,0,2.5,14.2,Bajo,Abandonados
+HTL10171,Puerto Natales Playa Stay,Chile,Puerto Natales,3,Bedbank,22,0,0.031,0.64,13,True,7,4.2,40.2,Medio,Otros bajos
+HTL10172,Guayaquil Casa Hostal,Ecuador,Guayaquil,4,Channel Manager,14,0,0.011,0.07,96,False,0,3.1,11.3,Bajo,Abandonados
+HTL10173,Cusco Plaza Hostal,Perú,Cusco,3,Bedbank,18,0,0.029,0.86,16,True,8,3.9,44.8,Medio,Otros bajos
+HTL10174,Quito Vista Place,Ecuador,Quito,4,Directo,2,0,0.049,0.31,147,False,0,2.1,23.1,Bajo,Abandonados
+HTL10175,Punta del Este Gran Stay,Uruguay,Punta del Este,4,Channel Manager,10,0,0.026,0.78,24,True,15,4.3,46.4,Alto,Invisibles
+HTL10176,Cusco Bahia Resort,Perú,Cusco,2,Channel Manager,3,0,0.021,0.17,130,True,1,3.3,14.3,Bajo,Abandonados
+HTL10177,Arequipa Royal Hostal,Perú,Arequipa,3,Directo,68,1,0.015,0.7,32,False,0,2.6,30.8,Medio,Productivos
+HTL10178,Puerto Natales Gran Residence,Chile,Puerto Natales,3,Bedbank,54,5,0.111,0.85,10,True,37,4.4,87.6,Alto,Productivos
+HTL10179,Bogotá Costa Rooms,Colombia,Bogotá,4,Channel Manager,10,0,0.031,0.88,22,True,12,4.2,48.1,Alto,Invisibles
+HTL10180,Cuenca Costa Stay,Ecuador,Cuenca,4,Channel Manager,41,0,0.009,0.56,31,True,3,2.5,28.2,Medio,Tráfico sin conversión
+HTL10181,Guayaquil Gran Inn,Ecuador,Guayaquil,4,Bedbank,19,0,0.026,0.91,7,True,11,4.0,47.8,Alto,Otros bajos
+HTL10182,Pucón Central Resort,Chile,Pucón,4,Directo,97,5,0.054,0.82,10,True,29,4.2,65.7,Alto,Productivos
+HTL10183,Puerto Natales Palace Stay,Chile,Puerto Natales,4,Bedbank,86,6,0.073,0.96,4,True,44,4.6,84.6,Alto,Productivos
+HTL10184,Iquitos Playa Apart,Perú,Iquitos,2,Channel Manager,14,0,0.044,0.71,20,False,0,4.5,40.0,Medio,Invisibles
+HTL10185,Iquitos Valle Hostal,Perú,Iquitos,2,Channel Manager,2,0,0.02,0.25,108,False,0,3.9,16.8,Bajo,Abandonados
+HTL10186,Pucón Sol Resort,Chile,Pucón,4,Directo,39,3,0.088,0.79,10,True,37,4.2,79.9,Alto,Productivos
+HTL10187,Lima Playa Lodge,Perú,Lima,4,Directo,7,0,0.024,0.2,160,True,2,3.7,14.2,Bajo,Abandonados
+HTL10188,Cartagena Bahia Hostal,Colombia,Cartagena,4,Channel Manager,10,0,0.013,0.29,135,True,3,3.6,15.7,Bajo,Abandonados
+HTL10189,Santiago Nuevo Hostal,Chile,Santiago,2,Directo,7,0,0.021,0.76,19,True,9,4.3,40.9,Medio,Invisibles
+HTL10190,Medellín Alto Hostal,Colombia,Medellín,4,Bedbank,6,0,0.039,0.71,3,True,9,4.5,46.0,Medio,Invisibles
+HTL10191,Mar del Plata Playa Lodge,Argentina,Mar del Plata,3,Bedbank,88,4,0.055,0.92,6,True,26,4.3,66.3,Alto,Productivos
+HTL10192,Santiago Real Residence,Chile,Santiago,2,Channel Manager,72,6,0.086,0.95,9,True,24,4.9,74.0,Alto,Productivos
+HTL10193,Pucón Bahia Inn,Chile,Pucón,4,Bedbank,1,0,0.003,0.11,116,True,2,3.9,9.8,Bajo,Abandonados
+HTL10194,Salta Sierra Stay,Argentina,Salta,2,Channel Manager,63,0,0.011,0.73,32,False,0,3.5,30.3,Medio,Tráfico sin conversión
+HTL10195,Guayaquil Royal Lodge,Ecuador,Guayaquil,4,Directo,131,0,0.005,0.54,67,True,6,2.6,26.0,Medio,Tráfico sin conversión
+HTL10196,Bariloche Bahia Inn,Argentina,Bariloche,2,Directo,6,0,0.013,0.13,176,False,0,2.6,7.1,Bajo,Abandonados
+HTL10197,Los Cabos Bahia Inn,México,Los Cabos,4,Directo,92,10,0.116,0.96,3,True,27,4.3,85.0,Alto,Productivos
+HTL10198,Mendoza Mar Place,Argentina,Mendoza,4,Directo,56,5,0.105,0.79,10,True,14,4.5,68.9,Alto,Productivos
+HTL10199,Santiago Costa Inn,Chile,Santiago,4,Channel Manager,2,0,0.019,0.14,87,False,0,3.2,15.7,Bajo,Abandonados
+HTL10200,Colonia del Sacramento Boutique Place,Uruguay,Colonia del Sacramento,4,Channel Manager,6,0,0.001,0.08,116,False,0,3.3,7.2,Bajo,Abandonados
+HTL10201,Santa Marta Central Stay,Colombia,Santa Marta,5,Channel Manager,9,0,0.06,0.81,4,True,4,3.6,50.5,Alto,Invisibles
+HTL10202,Guayaquil Casa Rooms,Ecuador,Guayaquil,4,Bedbank,8,0,0.011,0.76,13,True,17,4.2,44.0,Medio,Invisibles
+HTL10203,Puerto Natales Boutique Suites,Chile,Puerto Natales,3,Directo,48,3,0.082,0.78,3,True,31,4.2,74.5,Alto,Productivos
+HTL10204,Cancún Nuevo Hostal,México,Cancún,3,Bedbank,8,0,0.053,0.13,190,False,0,2.3,17.1,Bajo,Abandonados
+HTL10205,Cancún Costa Lodge,México,Cancún,4,Directo,9,0,0.003,0.88,13,True,6,4.1,36.9,Medio,Invisibles
+HTL10206,Cancún Gran Rooms,México,Cancún,5,Directo,21,0,0.024,0.88,17,True,16,3.9,49.2,Alto,Otros bajos
+HTL10207,Cuenca Boutique Stay,Ecuador,Cuenca,4,Bedbank,4,0,0.022,0.12,73,False,0,3.3,17.2,Bajo,Abandonados
+HTL10208,Santiago Costa Hostal,Chile,Santiago,2,Channel Manager,2,0,0.024,0.66,12,False,0,3.7,34.0,Medio,Invisibles
+HTL10209,Valparaíso Plaza Resort,Chile,Valparaíso,2,Channel Manager,9,0,0.042,0.82,10,True,13,4.1,51.4,Alto,Invisibles
+HTL10210,Puerto Natales Nuevo Rooms,Chile,Puerto Natales,3,Directo,4,0,0.016,0.22,165,False,0,3.6,10.7,Bajo,Abandonados
+HTL10211,Monterrey Costa Lodge,México,Monterrey,5,Bedbank,7,0,0.043,0.17,76,False,0,3.7,23.8,Bajo,Abandonados
+HTL10212,Pucón Plaza Suites,Chile,Pucón,4,Directo,17,0,0.018,0.07,117,False,0,2.8,11.6,Bajo,Abandonados
+HTL10213,Fortaleza Boutique Place,Brasil,Fortaleza,2,Channel Manager,10,0,0.051,0.69,11,True,15,4.5,52.4,Alto,Invisibles
+HTL10214,Valparaíso Sol Stay,Chile,Valparaíso,3,Channel Manager,1,0,0.034,0.21,160,False,0,2.8,15.8,Bajo,Abandonados
+HTL10215,Valparaíso Valle Residence,Chile,Valparaíso,3,Channel Manager,5,0,0.029,0.63,17,True,14,4.0,43.9,Medio,Invisibles
+HTL10216,Guayaquil Plaza Place,Ecuador,Guayaquil,4,Channel Manager,163,1,0.009,0.64,48,True,1,2.6,27.3,Medio,Productivos
+HTL10217,Córdoba Royal Place,Argentina,Córdoba,3,Directo,9,0,0.02,0.15,70,True,3,2.8,19.5,Bajo,Abandonados
+HTL10218,Santiago Plaza Resort,Chile,Santiago,3,Channel Manager,5,0,0.006,0.09,177,True,3,2.7,6.2,Bajo,Abandonados
+HTL10219,Mar del Plata Valle Place,Argentina,Mar del Plata,4,Channel Manager,23,1,0.052,0.85,6,True,24,4.6,62.6,Alto,Productivos
+HTL10220,Mendoza Bahia Residence,Argentina,Mendoza,4,Bedbank,1,0,0.013,0.12,91,True,1,3.3,14.0,Bajo,Abandonados
+HTL10221,Guayaquil Alto Place,Ecuador,Guayaquil,3,Bedbank,2,0,0.022,0.21,199,True,1,3.0,10.2,Bajo,Abandonados
+HTL10222,Colonia del Sacramento Bahia Inn,Uruguay,Colonia del Sacramento,3,Bedbank,10,0,0.048,0.79,16,True,8,3.7,48.6,Alto,Invisibles
+HTL10223,Guayaquil Colonial Apart,Ecuador,Guayaquil,4,Channel Manager,217,3,0.017,0.57,42,True,6,3.5,31.9,Medio,Productivos
+HTL10224,Lima Alto Apart,Perú,Lima,3,Bedbank,13,0,0.029,0.9,6,True,15,4.1,51.2,Alto,Invisibles
+HTL10225,Colonia del Sacramento Bahia Hostal,Uruguay,Colonia del Sacramento,4,Channel Manager,3,0,0.022,0.68,19,True,14,4.5,42.8,Medio,Invisibles
+HTL10226,Colonia del Sacramento Real Stay,Uruguay,Colonia del Sacramento,3,Channel Manager,51,5,0.101,0.87,7,True,15,4.8,70.5,Alto,Productivos
+HTL10227,Guadalajara Valle Apart,México,Guadalajara,3,Bedbank,29,0,0.014,0.53,33,True,5,3.1,30.2,Medio,Otros bajos
+HTL10228,Los Cabos Parque Suites,México,Los Cabos,4,Bedbank,54,3,0.074,0.92,8,True,21,4.2,68.1,Alto,Productivos
+HTL10229,Guayaquil Real Resort II,Ecuador,Guayaquil,3,Channel Manager,3,0,0.03,0.11,194,True,2,2.5,11.4,Bajo,Abandonados
+HTL10230,Puno Bahia Stay,Perú,Puno,5,Directo,15,0,0.003,0.07,65,False,0,3.6,11.4,Bajo,Abandonados
+HTL10231,Mendoza Valle Residence,Argentina,Mendoza,4,Bedbank,3,0,0.024,0.16,162,True,3,2.8,13.9,Bajo,Abandonados
+HTL10232,Fortaleza Vista Stay,Brasil,Fortaleza,2,Channel Manager,6,0,0.018,0.31,74,False,0,3.0,20.1,Bajo,Otros bajos
+HTL10233,Ciudad de México Boutique Resort,México,Ciudad de México,3,Directo,189,1,0.008,0.68,18,True,5,3.3,32.9,Medio,Productivos
+HTL10234,Fortaleza Playa Suites,Brasil,Fortaleza,3,Bedbank,3,0,0.024,0.67,8,True,10,4.1,41.3,Medio,Invisibles
+HTL10235,Montevideo Costa Inn,Uruguay,Montevideo,3,Channel Manager,6,0,0.023,0.15,152,False,0,3.4,12.1,Bajo,Abandonados
+HTL10236,Quito Mar Stay,Ecuador,Quito,4,Channel Manager,84,1,0.016,0.66,46,True,6,3.6,33.2,Medio,Productivos
+HTL10237,Puerto Natales Valle Rooms,Chile,Puerto Natales,4,Channel Manager,4,0,0.036,0.85,8,True,17,4.5,53.3,Alto,Invisibles
+HTL10238,Guayaquil Costa Stay,Ecuador,Guayaquil,4,Channel Manager,3,0,0.002,0.08,90,False,0,3.4,9.5,Bajo,Abandonados
+HTL10239,Salvador Nuevo Place,Brasil,Salvador,4,Bedbank,5,0,0.072,0.72,23,True,15,3.7,58.0,Alto,Invisibles
+HTL10240,São Paulo Valle Rooms,Brasil,São Paulo,3,Directo,42,4,0.099,0.94,10,True,24,4.5,77.3,Alto,Productivos
+HTL10241,Puno Valle Suites,Perú,Puno,3,Bedbank,36,3,0.089,0.79,7,True,38,4.9,81.1,Alto,Productivos
+HTL10242,San Pedro de Atacama Casa Place,Chile,San Pedro de Atacama,4,Directo,73,5,0.075,0.82,4,True,22,5.0,67.2,Alto,Productivos
+HTL10243,Quito Vista Residence,Ecuador,Quito,4,Channel Manager,84,0,0.006,0.66,17,True,4,3.6,31.3,Medio,Tráfico sin conversión
+HTL10244,Guayaquil Royal Residence,Ecuador,Guayaquil,3,Directo,19,0,0.044,0.62,21,True,8,4.4,43.4,Medio,Otros bajos
+HTL10245,Punta del Este Royal Resort,Uruguay,Punta del Este,4,Directo,44,5,0.124,0.96,3,True,34,4.6,92.0,Alto,Productivos
+HTL10246,Santa Marta Central Resort,Colombia,Santa Marta,3,Directo,168,2,0.013,0.55,53,True,6,2.7,29.5,Medio,Productivos
+HTL10247,Montevideo Royal Stay,Uruguay,Montevideo,5,Channel Manager,40,3,0.079,0.8,6,True,21,4.1,67.0,Alto,Productivos
+HTL10248,Punta del Este Mar Stay,Uruguay,Punta del Este,3,Channel Manager,48,1,0.029,0.86,6,True,35,4.8,64.0,Alto,Productivos
+HTL10249,Mendoza Parque Place,Argentina,Mendoza,4,Directo,118,8,0.071,0.87,3,True,28,4.6,71.3,Alto,Productivos
+HTL10250,Lima Vista Inn,Perú,Lima,5,Directo,63,0,0.009,0.54,16,True,1,3.4,27.6,Medio,Tráfico sin conversión
+HTL10251,Quito Mar Rooms,Ecuador,Quito,3,Channel Manager,233,4,0.019,0.67,47,False,0,3.3,30.1,Medio,Productivos
+HTL10252,São Paulo Bahia Hostal,Brasil,São Paulo,4,Bedbank,23,2,0.098,0.82,2,True,14,4.7,68.3,Alto,Productivos
+HTL10253,Puno Central Inn,Perú,Puno,5,Channel Manager,46,0,0.008,0.67,49,False,0,2.7,26.9,Medio,Tráfico sin conversión
+HTL10254,Puno Central Apart,Perú,Puno,3,Channel Manager,14,0,0.065,0.85,7,False,0,4.2,49.8,Alto,Invisibles
+HTL10255,Cuenca Real Place,Ecuador,Cuenca,5,Bedbank,2,0,0.009,0.32,136,False,0,2.4,13.1,Bajo,Abandonados
+HTL10256,Cancún Sierra Resort,México,Cancún,4,Bedbank,50,4,0.09,0.92,6,True,42,4.7,87.0,Alto,Productivos
+HTL10257,Los Cabos Sol Inn,México,Los Cabos,2,Directo,2,0,0.018,0.31,136,False,0,3.8,15.4,Bajo,Abandonados
+HTL10258,Quito Sierra Suites,Ecuador,Quito,5,Channel Manager,2,0,0.022,0.17,140,False,0,3.0,13.2,Bajo,Abandonados
+HTL10259,Bariloche Real Hostal,Argentina,Bariloche,5,Channel Manager,2,0,0.044,0.82,5,True,15,4.6,53.7,Alto,Invisibles
+HTL10260,Arequipa Colonial Lodge,Perú,Arequipa,4,Bedbank,1,0,0.026,0.17,145,True,1,2.1,14.6,Bajo,Abandonados
+HTL10261,Santa Marta Colonial Place,Colombia,Santa Marta,2,Bedbank,34,3,0.108,0.92,5,True,27,5.0,81.8,Alto,Productivos
+HTL10262,Rio de Janeiro Alto Inn,Brasil,Rio de Janeiro,4,Directo,26,0,0.032,0.69,17,True,14,4.6,46.0,Medio,Otros bajos
+HTL10263,Colonia del Sacramento Costa Stay,Uruguay,Colonia del Sacramento,4,Bedbank,15,0,0.024,0.26,115,False,0,3.5,17.5,Bajo,Abandonados
+HTL10264,Rio de Janeiro Vista Hostal,Brasil,Rio de Janeiro,2,Bedbank,56,3,0.056,0.94,3,True,38,4.1,75.5,Alto,Productivos
+HTL10265,Guayaquil Gran Stay,Ecuador,Guayaquil,3,Channel Manager,4,0,0.012,0.16,189,False,0,2.2,6.5,Bajo,Abandonados
+HTL10266,Puerto Natales Alto Inn,Chile,Puerto Natales,4,Channel Manager,18,0,0.013,0.3,193,False,0,2.7,9.4,Bajo,Abandonados
+HTL10267,Guayaquil Casa Hostal II,Ecuador,Guayaquil,4,Directo,1,0,0.031,0.23,97,False,0,3.9,20.2,Bajo,Abandonados
+HTL10268,Colonia del Sacramento Valle Stay,Uruguay,Colonia del Sacramento,2,Bedbank,43,0,0.012,0.77,23,False,0,2.7,32.2,Medio,Tráfico sin conversión
+HTL10269,Pucón Central Stay,Chile,Pucón,3,Channel Manager,20,0,0.018,0.56,65,True,2,3.6,27.5,Medio,Otros bajos
+HTL10270,Cancún Central Place,México,Cancún,3,Bedbank,44,0,0.013,0.82,7,True,30,4.6,55.2,Alto,Tráfico sin conversión
+HTL10271,Puno Sierra Hostal,Perú,Puno,2,Channel Manager,25,1,0.063,0.96,6,True,35,4.8,75.6,Alto,Productivos
+HTL10272,Mar del Plata Central Hostal,Argentina,Mar del Plata,2,Channel Manager,38,4,0.106,0.94,6,True,34,4.1,86.4,Alto,Productivos
+HTL10273,Salta Real Place,Argentina,Salta,3,Bedbank,92,3,0.038,0.89,7,True,17,4.1,54.8,Alto,Productivos
+HTL10274,Guayaquil Costa Place,Ecuador,Guayaquil,5,Directo,2,0,0.007,0.11,65,False,0,3.8,13.4,Bajo,Abandonados
+HTL10275,Cusco Nuevo Place,Perú,Cusco,3,Channel Manager,10,0,0.026,0.16,105,False,0,2.6,16.7,Bajo,Abandonados
+HTL10276,Pucón Sol Suites,Chile,Pucón,3,Directo,2,0,0.014,0.26,138,True,3,2.2,15.1,Bajo,Abandonados
+HTL10277,Valparaíso Real Place,Chile,Valparaíso,4,Channel Manager,8,0,0.013,0.21,193,False,0,2.8,7.5,Bajo,Abandonados
+HTL10278,Cusco Plaza Hostal II,Perú,Cusco,5,Channel Manager,6,0,0.007,0.26,160,False,0,3.8,9.4,Bajo,Abandonados
+HTL10279,Iquitos Alto Resort,Perú,Iquitos,4,Channel Manager,4,0,0.042,0.3,158,False,0,3.7,20.1,Bajo,Abandonados
+HTL10280,Florianópolis Palace Residence,Brasil,Florianópolis,3,Bedbank,40,2,0.06,0.85,11,True,14,4.2,57.7,Alto,Productivos
+HTL10281,Pucón Valle Stay,Chile,Pucón,4,Channel Manager,213,0,0.0,0.55,43,True,4,2.9,25.3,Medio,Tráfico sin conversión
+HTL10282,San Pedro de Atacama Sol Stay,Chile,San Pedro de Atacama,2,Bedbank,70,0,0.011,0.53,57,False,0,3.2,24.1,Bajo,Tráfico sin conversión
+HTL10283,Cancún Costa Rooms,México,Cancún,5,Directo,26,0,0.036,0.88,6,False,0,4.2,42.5,Medio,Otros bajos
+HTL10284,Lima Central Suites,Perú,Lima,3,Directo,2,0,0.008,0.29,155,False,0,2.6,10.7,Bajo,Abandonados
+HTL10285,Puerto Natales Sol Stay,Chile,Puerto Natales,4,Channel Manager,9,0,0.025,0.71,9,True,4,4.5,38.3,Medio,Invisibles
+HTL10286,Arequipa Casa Rooms,Perú,Arequipa,3,Bedbank,29,0,0.012,0.57,20,True,6,2.9,32.2,Medio,Otros bajos
+HTL10287,Lima Costa Stay,Perú,Lima,2,Channel Manager,6,0,0.026,0.23,150,True,2,3.5,16.2,Bajo,Abandonados
+HTL10288,Salta Playa Apart,Argentina,Salta,4,Bedbank,97,0,0.007,0.75,15,True,2,2.7,32.3,Medio,Tráfico sin conversión
+HTL10289,San Andrés Plaza Stay,Colombia,San Andrés,5,Directo,20,0,0.013,0.24,122,True,3,2.2,15.6,Bajo,Abandonados
+HTL10290,Valparaíso Sol Lodge,Chile,Valparaíso,4,Channel Manager,14,0,0.055,0.78,18,True,10,3.7,51.5,Alto,Invisibles
+HTL10291,Buenos Aires Sierra Stay,Argentina,Buenos Aires,2,Bedbank,6,0,0.031,0.8,16,True,17,4.2,50.2,Alto,Invisibles
+HTL10292,Ciudad de México Costa Residence,México,Ciudad de México,4,Channel Manager,21,2,0.125,0.91,7,True,13,4.9,76.6,Alto,Productivos
+HTL10293,Salvador Vista Apart,Brasil,Salvador,5,Directo,105,1,0.01,0.52,50,False,0,3.4,24.2,Bajo,Productivos
+HTL10294,Colonia del Sacramento Mar Rooms,Uruguay,Colonia del Sacramento,3,Directo,3,0,0.043,0.76,24,True,16,4.2,51.4,Alto,Invisibles
+HTL10295,Los Cabos Boutique Rooms,México,Los Cabos,4,Directo,5,0,0.045,0.25,109,False,0,2.3,23.6,Bajo,Abandonados
+HTL10296,Santiago Palace Resort,Chile,Santiago,4,Bedbank,6,0,0.036,0.17,199,True,2,3.2,13.9,Bajo,Abandonados
+HTL10297,Guayaquil Costa Apart,Ecuador,Guayaquil,3,Channel Manager,11,0,0.044,0.62,8,True,8,3.7,44.4,Medio,Invisibles
+HTL10298,Puerto Vallarta Palace Residence,México,Puerto Vallarta,5,Channel Manager,1,0,0.016,0.21,145,True,2,3.6,13.3,Bajo,Abandonados
+HTL10299,Lima Central Hostal,Perú,Lima,4,Bedbank,9,0,0.046,0.68,16,False,0,4.3,40.2,Medio,Invisibles
+HTL10300,Bogotá Vista Inn,Colombia,Bogotá,3,Directo,13,0,0.032,0.8,14,True,15,4.5,49.3,Alto,Invisibles
+HTL10301,San Andrés Boutique Suites,Colombia,San Andrés,4,Directo,4,0,0.036,0.29,151,False,0,3.0,18.8,Bajo,Abandonados
+HTL10302,Bariloche Costa Lodge,Argentina,Bariloche,3,Directo,4,0,0.037,0.19,170,False,0,2.5,15.5,Bajo,Abandonados
+HTL10303,Bogotá Playa Resort,Colombia,Bogotá,4,Channel Manager,4,0,0.02,0.11,102,False,0,2.1,14.2,Bajo,Abandonados
+HTL10304,Cartagena Royal Lodge,Colombia,Cartagena,3,Bedbank,6,0,0.008,0.26,192,False,0,3.4,7.3,Bajo,Abandonados
+HTL10305,Bariloche Mar Lodge,Argentina,Bariloche,4,Channel Manager,51,4,0.098,0.89,3,True,35,4.8,84.0,Alto,Productivos
+HTL10306,Pucón Sol Suites II,Chile,Pucón,3,Bedbank,5,0,0.024,0.15,133,False,0,3.7,13.8,Bajo,Abandonados
+HTL10307,São Paulo Palace Resort,Brasil,São Paulo,2,Channel Manager,82,2,0.026,0.51,66,False,0,3.6,27.2,Medio,Productivos
+HTL10308,Lima Alto Hostal,Perú,Lima,4,Channel Manager,31,0,0.006,0.09,155,True,1,2.8,6.5,Bajo,Abandonados
+HTL10309,Mendoza Colonial Residence,Argentina,Mendoza,3,Channel Manager,13,0,0.041,0.78,20,True,9,3.7,46.8,Alto,Invisibles
+HTL10310,Puerto Vallarta Plaza Stay,México,Puerto Vallarta,2,Directo,61,0,0.011,0.57,21,True,1,2.7,28.4,Medio,Tráfico sin conversión
+HTL10311,Guayaquil Parque Place,Ecuador,Guayaquil,3,Directo,5,0,0.022,0.72,19,True,14,4.2,43.7,Medio,Invisibles
+HTL10312,Los Cabos Parque Resort,México,Los Cabos,3,Channel Manager,27,1,0.041,0.83,6,True,6,4.1,46.9,Alto,Productivos
+HTL10313,Mar del Plata Parque Hostal,Argentina,Mar del Plata,4,Directo,58,5,0.088,0.88,11,True,35,4.7,80.4,Alto,Productivos
+HTL10314,Cuenca Gran Suites,Ecuador,Cuenca,3,Channel Manager,50,4,0.086,0.88,5,True,28,4.9,75.5,Alto,Productivos
+HTL10315,Guayaquil Colonial Inn,Ecuador,Guayaquil,4,Channel Manager,4,0,0.024,0.24,184,False,0,3.4,11.9,Bajo,Abandonados
+HTL10316,Cuenca Vista Inn,Ecuador,Cuenca,4,Channel Manager,61,0,0.01,0.49,32,True,5,2.7,28.3,Medio,Tráfico sin conversión
+HTL10317,Guadalajara Boutique Lodge,México,Guadalajara,4,Bedbank,5,0,0.034,0.74,20,False,0,3.8,37.8,Medio,Invisibles
+HTL10318,Cancún Valle Place,México,Cancún,2,Bedbank,15,0,0.001,0.91,4,True,16,4.1,44.5,Medio,Otros bajos
+HTL10319,Iquitos Boutique Residence II,Perú,Iquitos,3,Bedbank,8,0,0.026,0.64,19,True,10,4.0,40.4,Medio,Invisibles
+HTL10320,Valparaíso Parque Place,Chile,Valparaíso,3,Channel Manager,16,0,0.032,0.05,94,False,0,3.0,16.8,Bajo,Abandonados
+HTL10321,Montevideo Sol Residence,Uruguay,Montevideo,2,Bedbank,7,0,0.038,0.07,168,False,0,3.5,13.3,Bajo,Abandonados
+HTL10322,Cali Vista Resort,Colombia,Cali,4,Bedbank,2,0,0.021,0.23,148,False,0,2.4,13.6,Bajo,Abandonados
+HTL10323,Punta del Este Vista Rooms,Uruguay,Punta del Este,3,Bedbank,11,0,0.038,0.85,16,True,7,4.5,46.4,Alto,Invisibles
+HTL10324,Colonia del Sacramento Sol Apart,Uruguay,Colonia del Sacramento,4,Bedbank,36,1,0.048,0.92,5,True,13,4.5,55.6,Alto,Productivos
+HTL10325,Punta del Este Valle Apart,Uruguay,Punta del Este,5,Channel Manager,2,0,0.038,0.27,154,False,0,2.6,18.7,Bajo,Abandonados
+HTL10326,Natal Bahia Inn,Brasil,Natal,4,Directo,6,0,0.027,0.14,101,True,1,2.6,17.5,Bajo,Abandonados
+HTL10327,Ciudad de México Plaza Rooms,México,Ciudad de México,4,Bedbank,5,0,0.036,0.32,171,False,0,3.4,17.9,Bajo,Abandonados
+HTL10328,Puerto Vallarta Palace Lodge,México,Puerto Vallarta,3,Directo,24,0,0.006,0.59,68,False,0,3.3,23.2,Bajo,Otros bajos
+HTL10329,Salta Playa Residence,Argentina,Salta,4,Bedbank,3,0,0.03,0.77,19,True,16,4.4,48.4,Alto,Invisibles
+HTL10330,Lima Colonial Apart,Perú,Lima,4,Directo,46,0,0.009,0.48,74,True,3,3.5,23.3,Bajo,Tráfico sin conversión
+HTL10331,Colonia del Sacramento Real Hostal,Uruguay,Colonia del Sacramento,4,Bedbank,2,0,0.017,0.06,113,False,0,3.1,11.5,Bajo,Abandonados
+HTL10332,San Pedro de Atacama Sol Place,Chile,San Pedro de Atacama,3,Channel Manager,13,0,0.055,0.85,3,False,0,4.2,47.3,Alto,Invisibles
+HTL10333,Cartagena Bahia Resort,Colombia,Cartagena,4,Channel Manager,10,0,0.051,0.79,24,False,0,4.0,43.3,Medio,Invisibles
+HTL10334,Guadalajara Playa Apart,México,Guadalajara,4,Channel Manager,12,0,0.014,0.9,23,True,8,4.2,41.0,Medio,Invisibles
+HTL10335,Guadalajara Casa Resort,México,Guadalajara,3,Channel Manager,17,0,0.035,0.76,23,True,14,4.4,47.9,Alto,Otros bajos
+HTL10336,Colonia del Sacramento Boutique Place II,Uruguay,Colonia del Sacramento,3,Bedbank,41,3,0.085,0.91,11,True,21,4.6,70.7,Alto,Productivos
+HTL10337,Salta Valle Suites,Argentina,Salta,4,Bedbank,2,0,0.015,0.06,143,False,0,3.8,8.6,Bajo,Abandonados
+HTL10338,Fortaleza Sierra Apart,Brasil,Fortaleza,2,Channel Manager,20,0,0.0,0.68,69,False,0,3.7,23.4,Bajo,Otros bajos
+HTL10339,Lima Alto Lodge,Perú,Lima,4,Channel Manager,11,0,0.051,0.64,19,True,14,3.7,50.0,Alto,Invisibles
+HTL10340,Montevideo Mar Suites II,Uruguay,Montevideo,2,Channel Manager,83,0,0.003,0.74,67,False,0,2.7,25.7,Medio,Tráfico sin conversión
+HTL10341,Puerto Vallarta Parque Resort,México,Puerto Vallarta,4,Bedbank,110,0,0.003,0.54,63,False,0,2.4,21.7,Bajo,Tráfico sin conversión
+HTL10342,Punta del Este Vista Apart,Uruguay,Punta del Este,5,Channel Manager,8,0,0.042,0.87,4,True,10,4.0,50.9,Alto,Invisibles
+HTL10343,Fortaleza Sierra Apart II,Brasil,Fortaleza,3,Channel Manager,59,0,0.012,0.63,62,True,2,2.7,27.5,Medio,Tráfico sin conversión
+HTL10344,Ciudad de México Mar Lodge,México,Ciudad de México,3,Directo,24,0,0.005,0.71,34,True,6,2.4,32.2,Medio,Otros bajos
+HTL10345,Mar del Plata Plaza Hostal,Argentina,Mar del Plata,4,Channel Manager,2,0,0.008,0.31,87,False,0,3.5,16.3,Bajo,Otros bajos
+HTL10346,Cuenca Colonial Stay,Ecuador,Cuenca,2,Bedbank,4,0,0.017,0.27,160,False,0,2.4,12.4,Bajo,Abandonados
+HTL10347,Guayaquil Valle Resort II,Ecuador,Guayaquil,3,Bedbank,4,0,0.018,0.62,6,False,0,4.0,31.9,Medio,Invisibles
+HTL10348,Guadalajara Colonial Inn,México,Guadalajara,5,Channel Manager,38,0,0.014,0.57,26,True,2,3.3,29.5,Medio,Otros bajos
+HTL10349,Puerto Natales Bahia Residence,Chile,Puerto Natales,4,Bedbank,8,0,0.0,0.28,198,False,0,2.8,5.0,Bajo,Abandonados
+HTL10350,Santiago Costa Rooms,Chile,Santiago,3,Channel Manager,5,0,0.04,0.18,178,True,2,3.5,16.9,Bajo,Abandonados
+HTL10351,Buenos Aires Nuevo Hostal,Argentina,Buenos Aires,3,Channel Manager,69,2,0.029,0.96,10,True,17,4.6,53.5,Alto,Productivos
+HTL10352,Cartagena Valle Hostal,Colombia,Cartagena,4,Channel Manager,2,0,0.028,0.2,115,False,0,2.4,17.4,Bajo,Abandonados
+HTL10353,Lima Gran Stay,Perú,Lima,4,Directo,5,0,0.024,0.67,21,True,16,4.2,44.4,Medio,Invisibles
+HTL10354,Montevideo Mar Rooms,Uruguay,Montevideo,4,Channel Manager,5,0,0.047,0.9,22,True,14,4.4,54.3,Alto,Invisibles
+HTL10355,Santa Marta Playa Apart,Colombia,Santa Marta,4,Directo,2,0,0.028,0.11,182,True,1,3.5,11.0,Bajo,Abandonados
+HTL10356,Los Cabos Real Rooms,México,Los Cabos,4,Channel Manager,8,0,0.027,0.69,8,True,16,3.7,46.6,Alto,Invisibles
+HTL10357,Córdoba Plaza Apart,Argentina,Córdoba,3,Bedbank,3,0,0.011,0.3,128,False,0,3.5,13.8,Bajo,Abandonados
+HTL10358,Colonia del Sacramento Central Rooms,Uruguay,Colonia del Sacramento,3,Channel Manager,158,8,0.054,0.98,9,True,40,4.7,76.7,Alto,Productivos
+HTL10359,Santiago Central Suites,Chile,Santiago,3,Channel Manager,2,0,0.028,0.23,128,False,0,2.3,17.0,Bajo,Abandonados
+HTL10360,Cusco Boutique Stay,Perú,Cusco,4,Directo,44,0,0.012,0.56,42,False,0,3.7,26.2,Medio,Tráfico sin conversión
+HTL10361,Lima Colonial Inn,Perú,Lima,3,Bedbank,12,0,0.039,0.1,72,False,0,3.3,21.5,Bajo,Abandonados
+HTL10362,Cali Casa Rooms,Colombia,Cali,3,Channel Manager,84,0,0.009,0.76,36,True,5,3.6,33.5,Medio,Tráfico sin conversión
+HTL10363,Los Cabos Sierra Apart,México,Los Cabos,3,Bedbank,3,0,0.006,0.06,194,False,0,3.8,2.3,Bajo,Abandonados
+HTL10364,Medellín Alto Inn,Colombia,Medellín,3,Channel Manager,28,2,0.105,0.95,11,True,15,4.4,73.0,Alto,Productivos
+HTL10365,Monterrey Parque Resort,México,Monterrey,5,Channel Manager,260,1,0.005,0.63,35,True,3,2.8,28.3,Medio,Productivos
+HTL10366,Arequipa Mar Resort II,Perú,Arequipa,3,Directo,22,1,0.074,0.85,10,True,23,4.3,67.8,Alto,Productivos
+HTL10367,Cancún Valle Resort,México,Cancún,3,Bedbank,65,3,0.059,0.81,11,True,36,4.9,71.5,Alto,Productivos
+HTL10368,Florianópolis Mar Inn,Brasil,Florianópolis,3,Directo,4,0,0.048,0.67,9,True,14,3.7,50.6,Alto,Invisibles
+HTL10369,Natal Bahia Stay,Brasil,Natal,2,Directo,5,0,0.061,0.74,22,False,0,4.5,45.2,Medio,Invisibles
+HTL10370,Cuenca Casa Place,Ecuador,Cuenca,3,Channel Manager,5,0,0.026,0.68,10,True,4,4.4,37.8,Medio,Invisibles
+HTL10371,Arequipa Mar Stay,Perú,Arequipa,3,Channel Manager,11,0,0.024,0.9,6,False,0,4.2,39.6,Medio,Invisibles
+HTL10372,Los Cabos Vista Hostal,México,Los Cabos,4,Channel Manager,7,0,0.033,0.69,3,True,8,4.4,43.2,Medio,Invisibles
+HTL10373,Puerto Natales Real Apart,Chile,Puerto Natales,4,Channel Manager,5,0,0.03,0.14,66,False,0,3.5,20.3,Bajo,Abandonados
+HTL10374,Guadalajara Vista Stay,México,Guadalajara,2,Channel Manager,4,0,0.034,0.91,7,True,5,4.3,45.9,Medio,Invisibles
+HTL10375,Buenos Aires Palace Hostal II,Argentina,Buenos Aires,2,Channel Manager,39,0,0.008,0.51,49,True,5,2.7,26.9,Medio,Otros bajos
+HTL10376,Puerto Vallarta Plaza Place,México,Puerto Vallarta,3,Bedbank,39,2,0.074,0.8,1,True,12,4.5,59.9,Alto,Productivos
+HTL10377,Punta del Este Casa Residence,Uruguay,Punta del Este,3,Channel Manager,12,0,0.012,0.73,21,False,0,4.1,31.4,Medio,Invisibles
+HTL10378,Córdoba Casa Resort,Argentina,Córdoba,3,Channel Manager,39,4,0.103,0.82,1,True,28,4.4,79.3,Alto,Productivos
+HTL10379,Puno Bahia Residence,Perú,Puno,5,Channel Manager,60,0,0.006,0.64,60,False,0,2.8,24.9,Medio,Tráfico sin conversión
+HTL10380,São Paulo Vista Inn,Brasil,São Paulo,3,Directo,6,0,0.038,0.75,16,False,0,3.9,39.5,Medio,Invisibles
+HTL10381,Lima Parque Lodge,Perú,Lima,3,Channel Manager,1,0,0.033,0.3,179,True,3,2.3,18.1,Bajo,Abandonados
+HTL10382,Mendoza Vista Stay,Argentina,Mendoza,4,Bedbank,3,0,0.023,0.15,139,False,0,3.6,13.1,Bajo,Abandonados
+HTL10383,Fortaleza Palace Hostal,Brasil,Fortaleza,4,Channel Manager,25,1,0.068,0.8,4,True,24,4.6,66.2,Alto,Productivos
+HTL10384,Punta del Este Royal Place,Uruguay,Punta del Este,3,Directo,3,0,0.009,0.2,68,False,0,2.4,15.7,Bajo,Abandonados
+HTL10385,Mar del Plata Royal Inn,Argentina,Mar del Plata,3,Channel Manager,40,3,0.088,0.84,11,True,42,5.0,84.3,Alto,Productivos
+HTL10386,Lima Playa Rooms,Perú,Lima,3,Bedbank,179,3,0.017,0.58,60,True,5,3.5,30.1,Medio,Productivos
+HTL10387,San Pedro de Atacama Boutique Lodge,Chile,San Pedro de Atacama,3,Channel Manager,10,0,0.046,0.62,23,True,15,4.0,48.6,Alto,Invisibles
+HTL10388,Lima Casa Lodge,Perú,Lima,5,Directo,5,0,0.035,0.19,106,False,0,2.7,19.8,Bajo,Abandonados
+HTL10389,Arequipa Central Lodge,Perú,Arequipa,2,Directo,51,4,0.09,0.93,4,True,33,4.8,81.2,Alto,Productivos
+HTL10390,Guadalajara Playa Rooms,México,Guadalajara,3,Directo,123,6,0.053,0.87,9,True,20,4.6,60.4,Alto,Productivos
+HTL10391,Cusco Parque Inn,Perú,Cusco,4,Channel Manager,98,0,0.001,0.52,33,True,6,3.5,27.1,Medio,Tráfico sin conversión
+HTL10392,Colonia del Sacramento Palace Suites,Uruguay,Colonia del Sacramento,3,Channel Manager,181,1,0.006,0.69,56,True,1,2.5,26.9,Medio,Productivos
+HTL10393,Arequipa Alto Resort,Perú,Arequipa,3,Channel Manager,5,0,0.019,0.27,193,False,0,2.5,10.5,Bajo,Abandonados
+HTL10394,Iquitos Nuevo Resort,Perú,Iquitos,4,Bedbank,50,0,0.007,0.46,49,True,5,3.4,25.5,Medio,Tráfico sin conversión
+HTL10395,Rio de Janeiro Plaza Hostal,Brasil,Rio de Janeiro,5,Bedbank,29,1,0.066,0.92,5,True,15,5.0,62.0,Alto,Productivos
+HTL10396,Monterrey Playa Residence,México,Monterrey,4,Directo,31,3,0.101,0.96,5,True,23,4.5,78.0,Alto,Productivos
+HTL10397,Mar del Plata Royal Place,Argentina,Mar del Plata,3,Directo,35,0,0.003,0.48,20,True,6,2.9,27.7,Medio,Otros bajos
+HTL10398,Florianópolis Central Lodge,Brasil,Florianópolis,4,Directo,10,0,0.011,0.06,131,False,0,2.7,8.4,Bajo,Abandonados
+HTL10399,Rio de Janeiro Boutique Lodge,Brasil,Rio de Janeiro,3,Channel Manager,7,0,0.006,0.27,167,True,3,3.4,10.9,Bajo,Abandonados
+HTL10400,Quito Colonial Apart,Ecuador,Quito,3,Channel Manager,8,0,0.034,0.87,15,True,5,3.8,44.4,Medio,Invisibles
+HTL10401,Cali Boutique Hostal,Colombia,Cali,4,Directo,31,2,0.067,0.86,3,True,26,4.8,68.6,Alto,Productivos
+HTL10402,Quito Playa Resort II,Ecuador,Quito,4,Bedbank,2,0,0.016,0.25,113,False,0,2.6,15.3,Bajo,Abandonados
+HTL10403,Valparaíso Nuevo Apart,Chile,Valparaíso,2,Bedbank,89,10,0.119,0.95,4,True,43,4.7,96.5,Alto,Productivos
+HTL10404,Guayaquil Sierra Rooms,Ecuador,Guayaquil,3,Channel Manager,117,0,0.0,0.73,27,False,0,3.4,27.7,Medio,Tráfico sin conversión
+HTL10405,Montevideo Nuevo Place,Uruguay,Montevideo,4,Channel Manager,32,2,0.068,0.93,3,True,35,4.6,76.5,Alto,Productivos
+HTL10406,Fortaleza Real Stay,Brasil,Fortaleza,2,Channel Manager,114,0,0.008,0.56,54,False,0,2.8,24.2,Bajo,Tráfico sin conversión
+HTL10407,Puno Sol Residence,Perú,Puno,4,Directo,11,0,0.025,0.65,24,True,12,4.5,41.3,Medio,Invisibles
+HTL10408,Guadalajara Plaza Lodge,México,Guadalajara,3,Channel Manager,30,3,0.12,0.89,2,True,38,4.7,92.2,Alto,Productivos
+HTL10409,Valparaíso Parque Lodge,Chile,Valparaíso,4,Channel Manager,11,0,0.054,0.67,3,True,17,3.7,54.8,Alto,Invisibles
+HTL10410,Montevideo Costa Stay,Uruguay,Montevideo,4,Channel Manager,65,0,0.013,0.5,57,True,6,3.5,28.1,Medio,Tráfico sin conversión
+HTL10411,Lima Colonial Suites,Perú,Lima,5,Channel Manager,88,6,0.072,0.9,7,True,34,4.1,76.0,Alto,Productivos
+HTL10412,Colonia del Sacramento Palace Resort,Uruguay,Colonia del Sacramento,3,Directo,104,11,0.111,0.9,1,True,17,4.7,75.7,Alto,Productivos
+HTL10413,Montevideo Palace Resort,Uruguay,Montevideo,5,Bedbank,5,0,0.0,0.14,185,False,0,2.6,3.0,Bajo,Abandonados
+HTL10414,Bariloche Sol Apart,Argentina,Bariloche,3,Bedbank,2,0,0.022,0.07,175,False,0,3.6,8.4,Bajo,Abandonados
+HTL10415,Rio de Janeiro Real Hostal,Brasil,Rio de Janeiro,5,Channel Manager,55,0,0.015,0.67,74,True,1,2.8,27.7,Medio,Tráfico sin conversión
+HTL10416,Cuenca Mar Stay,Ecuador,Cuenca,2,Directo,72,0,0.01,0.63,67,False,0,3.2,25.3,Medio,Tráfico sin conversión
+HTL10417,Cuenca Gran Inn,Ecuador,Cuenca,4,Channel Manager,43,0,0.0,0.67,55,True,3,2.9,26.3,Medio,Tráfico sin conversión
+HTL10418,Bariloche Nuevo Lodge,Argentina,Bariloche,4,Channel Manager,7,0,0.008,0.12,173,False,0,3.9,5.7,Bajo,Abandonados
+HTL10419,Montevideo Sierra Resort,Uruguay,Montevideo,2,Bedbank,14,0,0.029,0.13,131,False,0,2.5,14.9,Bajo,Abandonados
+HTL10420,Santiago Real Resort,Chile,Santiago,3,Channel Manager,1,0,0.022,0.13,102,False,0,3.3,15.2,Bajo,Abandonados
+HTL10421,Colonia del Sacramento Boutique Stay,Uruguay,Colonia del Sacramento,4,Bedbank,3,0,0.019,0.06,104,False,0,3.0,12.7,Bajo,Abandonados
+HTL10422,Ciudad de México Bahia Place,México,Ciudad de México,3,Channel Manager,24,1,0.051,0.67,24,True,7,4.3,45.5,Medio,Productivos
+HTL10423,Mar del Plata Parque Place,Argentina,Mar del Plata,3,Channel Manager,30,0,0.007,0.68,48,True,5,3.1,30.3,Medio,Otros bajos
+HTL10424,San Andrés Mar Hostal,Colombia,San Andrés,4,Bedbank,13,0,0.038,0.82,9,True,12,3.9,49.7,Alto,Invisibles
+HTL10425,Montevideo Boutique Apart,Uruguay,Montevideo,3,Channel Manager,5,0,0.024,0.07,110,False,0,2.4,13.8,Bajo,Abandonados
+HTL10426,Santa Marta Colonial Lodge,Colombia,Santa Marta,4,Bedbank,19,0,0.004,0.58,21,False,0,3.0,26.0,Medio,Otros bajos
+HTL10427,Monterrey Palace Inn,México,Monterrey,3,Channel Manager,163,10,0.066,0.79,9,True,18,4.7,60.9,Alto,Productivos
+HTL10428,Córdoba Bahia Suites,Argentina,Córdoba,5,Directo,361,1,0.005,0.64,39,True,1,2.6,26.9,Medio,Productivos
+HTL10429,Punta del Este Valle Suites,Uruguay,Punta del Este,4,Directo,22,1,0.049,0.68,3,True,16,4.2,52.9,Alto,Productivos
+HTL10430,Lima Palace Resort,Perú,Lima,3,Bedbank,5,0,0.036,0.79,22,True,15,4.5,49.6,Alto,Invisibles
+HTL10431,Monterrey Royal Lodge,México,Monterrey,4,Bedbank,18,0,0.001,0.19,108,False,0,3.0,10.2,Bajo,Abandonados
+HTL10432,Bariloche Playa Apart,Argentina,Bariloche,3,Channel Manager,1,0,0.008,0.1,156,True,1,3.8,7.2,Bajo,Abandonados
+HTL10433,Natal Vista Stay,Brasil,Natal,3,Channel Manager,8,0,0.028,0.77,15,False,0,4.3,37.2,Medio,Invisibles
+HTL10434,Rio de Janeiro Plaza Stay,Brasil,Rio de Janeiro,3,Bedbank,6,0,0.048,0.66,12,True,8,3.7,46.1,Alto,Invisibles
+HTL10435,Bariloche Nuevo Suites,Argentina,Bariloche,3,Directo,22,0,0.017,0.29,177,True,2,3.6,12.9,Bajo,Abandonados
+HTL10436,Bogotá Royal Hostal,Colombia,Bogotá,4,Channel Manager,10,0,0.056,0.87,16,False,0,4.2,47.1,Alto,Invisibles
+HTL10437,Colonia del Sacramento Bahia Hostal II,Uruguay,Colonia del Sacramento,3,Bedbank,190,19,0.1,0.82,7,True,20,4.1,72.5,Alto,Productivos
+HTL10438,Mar del Plata Nuevo Hostal,Argentina,Mar del Plata,4,Bedbank,3,0,0.031,0.28,138,True,2,2.9,19.5,Bajo,Abandonados
+HTL10439,Lima Royal Hostal,Perú,Lima,3,Directo,6,0,0.016,0.64,11,True,6,4.5,35.5,Medio,Invisibles
+HTL10440,Guadalajara Colonial Rooms,México,Guadalajara,3,Directo,7,0,0.035,0.63,15,True,6,4.5,40.2,Medio,Invisibles
+HTL10441,Guayaquil Royal Lodge II,Ecuador,Guayaquil,4,Bedbank,173,16,0.094,0.79,11,True,19,4.4,69.2,Alto,Productivos
+HTL10442,Cuenca Bahia Apart,Ecuador,Cuenca,2,Directo,25,0,0.009,0.57,74,False,0,3.7,23.2,Bajo,Otros bajos
+HTL10443,Santiago Colonial Inn,Chile,Santiago,3,Channel Manager,44,0,0.009,0.45,55,False,0,3.0,22.0,Bajo,Tráfico sin conversión
+HTL10444,Colonia del Sacramento Alto Residence,Uruguay,Colonia del Sacramento,3,Channel Manager,58,5,0.092,0.93,4,True,41,4.5,87.2,Alto,Productivos
+HTL10445,San Pedro de Atacama Sol Inn,Chile,San Pedro de Atacama,3,Directo,27,2,0.092,0.9,2,True,23,4.2,74.4,Alto,Productivos
+HTL10446,Arequipa Sierra Stay,Perú,Arequipa,3,Channel Manager,71,5,0.075,0.95,3,True,12,4.5,63.2,Alto,Productivos
+HTL10447,Montevideo Vista Apart,Uruguay,Montevideo,5,Directo,3,0,0.033,0.25,121,False,0,3.6,19.4,Bajo,Abandonados
+HTL10448,Quito Palace Place,Ecuador,Quito,4,Bedbank,81,0,0.006,0.5,39,True,5,3.3,26.9,Medio,Tráfico sin conversión
+HTL10449,Punta del Este Real Inn,Uruguay,Punta del Este,4,Directo,19,0,0.044,0.92,3,False,0,4.2,45.8,Medio,Otros bajos
+HTL10450,Punta del Este Parque Lodge,Uruguay,Punta del Este,3,Directo,1,0,0.007,0.13,163,False,0,3.2,6.4,Bajo,Abandonados
+HTL10451,Mendoza Boutique Stay,Argentina,Mendoza,5,Channel Manager,10,0,0.005,0.1,107,True,3,3.4,11.5,Bajo,Abandonados
+HTL10452,Mendoza Plaza Resort,Argentina,Mendoza,2,Channel Manager,91,1,0.017,0.54,56,True,5,3.4,29.5,Medio,Productivos
+HTL10453,Arequipa Central Place,Perú,Arequipa,4,Channel Manager,43,3,0.07,0.86,7,True,13,4.4,60.3,Alto,Productivos
+HTL10454,Salta Mar Stay,Argentina,Salta,2,Channel Manager,16,0,0.021,0.63,15,False,0,3.8,32.2,Medio,Otros bajos
+HTL10455,Arequipa Vista Inn,Perú,Arequipa,3,Directo,128,2,0.021,0.58,46,False,0,2.7,28.8,Medio,Productivos
+HTL10456,Florianópolis Palace Rooms,Brasil,Florianópolis,2,Bedbank,15,0,0.038,0.8,20,True,9,4.5,46.4,Alto,Otros bajos
+HTL10457,Arequipa Costa Inn,Perú,Arequipa,4,Directo,42,0,0.004,0.53,33,True,6,3.2,28.1,Medio,Tráfico sin conversión
+HTL10458,Mar del Plata Alto Stay,Argentina,Mar del Plata,2,Bedbank,12,0,0.023,0.85,18,True,11,4.0,44.8,Medio,Invisibles
+HTL10459,Colonia del Sacramento Sol Hostal,Uruguay,Colonia del Sacramento,4,Directo,20,1,0.053,0.86,23,True,6,4.2,49.6,Alto,Productivos
+HTL10460,Valparaíso Nuevo Place,Chile,Valparaíso,4,Channel Manager,10,0,0.037,0.86,3,False,0,3.8,42.5,Medio,Invisibles
+HTL10461,Valparaíso Nuevo Inn,Chile,Valparaíso,3,Channel Manager,4,0,0.018,0.09,65,False,0,2.1,16.0,Bajo,Abandonados
+HTL10462,São Paulo Vista Lodge,Brasil,São Paulo,3,Channel Manager,10,0,0.017,0.06,134,False,0,3.8,9.9,Bajo,Abandonados
+HTL10463,Quito Royal Apart,Ecuador,Quito,4,Bedbank,5,0,0.011,0.15,184,True,2,3.8,7.7,Bajo,Abandonados
+HTL10464,Monterrey Playa Hostal,México,Monterrey,3,Directo,105,10,0.1,0.9,3,True,17,4.4,72.5,Alto,Productivos
+HTL10465,Pucón Alto Apart,Chile,Pucón,3,Directo,144,0,0.0,0.58,15,True,6,3.5,29.4,Medio,Tráfico sin conversión
+HTL10466,Bogotá Nuevo Lodge,Colombia,Bogotá,5,Channel Manager,96,0,0.01,0.73,25,False,0,2.9,30.6,Medio,Tráfico sin conversión
+HTL10467,Cali Gran Apart,Colombia,Cali,3,Directo,31,2,0.081,0.83,4,True,30,4.9,74.5,Alto,Productivos
+HTL10468,Iquitos Playa Lodge,Perú,Iquitos,3,Bedbank,11,0,0.043,0.66,18,False,0,4.3,38.8,Medio,Invisibles
+HTL10469,Ciudad de México Sierra Rooms,México,Ciudad de México,3,Channel Manager,59,7,0.126,0.8,4,True,14,4.3,75.4,Alto,Productivos
+HTL10470,Cuenca Colonial Rooms,Ecuador,Cuenca,2,Channel Manager,10,0,0.026,0.69,23,False,0,3.9,34.3,Medio,Invisibles
+HTL10471,Cancún Royal Inn,México,Cancún,4,Bedbank,55,4,0.085,0.8,8,True,14,4.3,63.8,Alto,Productivos
+HTL10472,Guayaquil Parque Apart,Ecuador,Guayaquil,2,Channel Manager,18,0,0.034,0.74,6,False,0,4.1,38.9,Medio,Otros bajos
+HTL10473,Florianópolis Casa Lodge,Brasil,Florianópolis,3,Channel Manager,214,18,0.087,0.87,10,True,43,4.9,85.4,Alto,Productivos
+HTL10474,Salvador Parque Suites,Brasil,Salvador,5,Channel Manager,26,0,0.017,0.3,84,True,3,2.3,20.9,Bajo,Otros bajos
+HTL10475,Monterrey Mar Hostal,México,Monterrey,3,Bedbank,98,10,0.111,0.83,3,True,24,4.4,78.8,Alto,Productivos
+HTL10476,Rio de Janeiro Royal Resort,Brasil,Rio de Janeiro,4,Channel Manager,11,0,0.036,0.73,10,True,5,3.8,42.4,Medio,Invisibles
+HTL10477,Puno Sierra Inn,Perú,Puno,3,Directo,5,0,0.008,0.07,118,False,0,2.9,8.8,Bajo,Abandonados
+HTL10478,Pucón Playa Hostal,Chile,Pucón,4,Channel Manager,14,0,0.065,0.94,10,True,28,4.3,70.6,Alto,Invisibles
+HTL10479,Natal Sierra Place,Brasil,Natal,2,Bedbank,16,0,0.03,0.13,179,True,3,2.7,13.6,Bajo,Abandonados
+HTL10480,Monterrey Alto Place,México,Monterrey,2,Directo,1,0,0.015,0.05,188,False,0,3.4,5.0,Bajo,Abandonados
+HTL10481,Rio de Janeiro Boutique Place,Brasil,Rio de Janeiro,3,Directo,6,0,0.017,0.3,123,True,3,2.5,17.9,Bajo,Abandonados
+HTL10482,Puno Real Suites,Perú,Puno,2,Channel Manager,39,0,0.013,0.7,70,True,2,2.5,28.7,Medio,Otros bajos
+HTL10483,Ciudad de México Casa Hostal,México,Ciudad de México,3,Directo,16,0,0.015,0.14,124,False,0,3.0,11.8,Bajo,Abandonados
+HTL10484,Santa Marta Colonial Place II,Colombia,Santa Marta,4,Bedbank,7,0,0.02,0.18,198,False,0,2.5,8.4,Bajo,Abandonados
+HTL10485,Córdoba Playa Hostal,Argentina,Córdoba,3,Bedbank,31,3,0.108,0.78,5,True,17,4.4,72.0,Alto,Productivos
+HTL10486,Valparaíso Costa Rooms,Chile,Valparaíso,4,Directo,4,0,0.023,0.69,4,True,12,3.9,43.1,Medio,Invisibles
+HTL10487,Valparaíso Plaza Suites,Chile,Valparaíso,3,Channel Manager,19,0,0.007,0.49,72,True,2,2.8,22.4,Bajo,Otros bajos
+HTL10488,Salvador Colonial Stay,Brasil,Salvador,3,Directo,44,3,0.088,0.91,2,True,12,4.8,66.0,Alto,Productivos
+HTL10489,Quito Royal Place,Ecuador,Quito,4,Directo,48,4,0.086,0.95,1,True,27,4.2,76.7,Alto,Productivos
+HTL10490,Fortaleza Royal Apart,Brasil,Fortaleza,4,Channel Manager,76,0,0.009,0.62,67,False,0,3.5,24.8,Medio,Tráfico sin conversión
+HTL10491,Montevideo Palace Residence,Uruguay,Montevideo,3,Channel Manager,2,0,0.027,0.17,177,False,0,2.8,11.7,Bajo,Abandonados
+HTL10492,Guadalajara Costa Stay,México,Guadalajara,4,Directo,19,0,0.028,0.69,7,False,0,3.8,36.1,Medio,Otros bajos
+HTL10493,Guadalajara Vista Resort,México,Guadalajara,3,Bedbank,15,0,0.051,0.88,5,True,5,4.4,50.1,Alto,Otros bajos
+HTL10494,São Paulo Real Hostal,Brasil,São Paulo,2,Bedbank,173,0,0.005,0.56,52,True,2,3.0,24.9,Medio,Tráfico sin conversión
+HTL10495,Colonia del Sacramento Colonial Resort,Uruguay,Colonia del Sacramento,3,Channel Manager,104,1,0.013,0.75,64,True,4,3.3,31.6,Medio,Productivos
+HTL10496,Fortaleza Casa Apart,Brasil,Fortaleza,3,Directo,16,0,0.025,0.15,82,True,2,3.3,19.3,Bajo,Abandonados
+HTL10497,Cartagena Bahia Residence,Colombia,Cartagena,4,Bedbank,14,1,0.073,0.85,18,True,14,4.4,60.7,Alto,Productivos
+HTL10498,Guayaquil Sierra Stay,Ecuador,Guayaquil,3,Directo,45,4,0.098,0.92,1,True,37,4.4,86.2,Alto,Productivos
+HTL10499,Buenos Aires Central Residence,Argentina,Buenos Aires,2,Channel Manager,39,2,0.054,0.8,2,True,44,4.2,76.1,Alto,Productivos
